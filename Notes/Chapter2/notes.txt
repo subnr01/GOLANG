@@ -1,3 +1,9 @@
 2 Program Structure
 
 
+Every program must have the main package, otherwise get the error:
+"go run: cannot run non-main package"
+
+
+
+
