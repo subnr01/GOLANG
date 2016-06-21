@@ -41,7 +41,12 @@ hello, world
 Subbus-MacBook-Pro:hello subbu$ 
 
 
-
+Alternate
+----------
+Subbus-MacBook-Pro:hello subbu$ go build hello.go 
+Subbus-MacBook-Pro:hello subbu$ ./hello 
+hello, world
+Subbus-MacBook-Pro:hello subbu$ 
 
 
 
