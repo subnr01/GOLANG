@@ -1,3 +1,23 @@
 Go Commands:
 
+Intial steps
+----------------
+
+1. Install GO tools
+2. Create a src dir: /Users/subbu/GO-Programming/src
+3. Create a hello directory under src such that: 
+Subbus-MacBook-Pro:hello subbu$ ls
+hello.go
+Subbus-MacBook-Pro:hello subbu$ pwd 
+/Users/subbu/GO-Programming/src/hello
+
+4.Set GOPATH variable
+export GOPATH=/Users/subbu/GO-Programming
+
+5.Run GO
+go install hello
+
+6.$ $GOPATH/bin/hello
+hello, world
+
 
