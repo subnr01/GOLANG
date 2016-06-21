@@ -32,5 +32,17 @@ Optional to set, if not set:
 export PATH=$PATH:/usr/local/go/bin 
 
 
+Alternate
+---------
+
+If you do not want to do all that, then:
+Subbus-MacBook-Pro:hello subbu$ go run hello.go 
+hello, world
+Subbus-MacBook-Pro:hello subbu$ 
+
+
+
+
+
 
 
