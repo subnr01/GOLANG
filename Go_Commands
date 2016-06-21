@@ -1,5 +1,13 @@
 Go Commands:
 
+Mac OS X package installer
+
+Download the package file, open it, and follow the prompts to install the Go tools.
+The package installs the Go distribution to /usr/local/go.
+
+The package should put the /usr/local/go/bin directory in your PATH environment variable.
+You may need to restart any open Terminal sessions for the change to take effect.
+
 Intial steps
 ----------------
 
@@ -19,5 +27,10 @@ go install hello
 
 6.$ $GOPATH/bin/hello
 hello, world
+
+Optional to set, if not set: 
+export PATH=$PATH:/usr/local/go/bin 
+
+
 
 
